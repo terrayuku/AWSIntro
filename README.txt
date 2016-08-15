@@ -1,0 +1,1 @@
+This project is the first project I will use to learn AWS and its web services.
